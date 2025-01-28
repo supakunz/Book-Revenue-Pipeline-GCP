@@ -34,11 +34,9 @@ The raw data and output files are too large to store in the repository. They are
 <img width="334" alt="ETL pipeline" src="https://github.com/manyuzhang1996/NYC-Uber-Data-Engineering-Project-with-Google-Cloud-Platform/assets/111943220/2c3dbd03-4a4a-433e-9455-78527fa1831b">
 
 ## Output
-[<img src="https://github.com/ABZ-Aaron/Reddit-API-Pipeline/blob/master/images/GDS-Dashboard.png" width=70% height=70%>](https://lookerstudio.google.com/reporting/5737527d-e089-47f5-80f1-2adda4ff3019)
-* Final output from Looker Studio. Link [here](https://lookerstudio.google.com/reporting/5737527d-e089-47f5-80f1-2adda4ff3019). Note that Dashboard is reading from a static CSV output from BigQuery.
-
-
+[<img src="https://github.com/user-attachments/assets/9f373252-43cd-43ac-970c-f262ea87e39d" width=70% height=70%>](https://lookerstudio.google.com/reporting/5737527d-e089-47f5-80f1-2adda4ff3019)
+* The final output from Looker Studio can be accessed via the following link: [View Dashboard](https://lookerstudio.google.com/reporting/5737527d-e089-47f5-80f1-2adda4ff3019). Note: The dashboard reads data from a static CSV file exported from BigQuery.
 
 
 ## Contact
-Manyu Zhang (zhangmanyuzmy@gmail.com)
+Supakun Thata (supakunt.thata@gmail.com)
