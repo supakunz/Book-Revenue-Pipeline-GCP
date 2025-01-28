@@ -1,0 +1,5 @@
+## Data Storage
+The raw data and output files are too large to store in the repository. They are stored on Google Drive.
+
+- **raw_data**: [Download Link](https://drive.google.com/drive/folders/13KLFWQbJXNKjIoQp4QL3Mahyfvn-isaA?usp=drive_link)
+- **output**: [Download Link](https://drive.google.com/drive/folders/1c_BNYN2IqQGQFtJmo-gaGyE_LwBfY6kX?usp=drive_link)
