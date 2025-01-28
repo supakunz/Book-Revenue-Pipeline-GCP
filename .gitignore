@@ -1,0 +1,6 @@
+# Ignore environment variable files
+.env
+
+# Ignore Data Folder/
+/data/processed/
+/data/raw/
