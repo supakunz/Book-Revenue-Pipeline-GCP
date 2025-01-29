@@ -31,7 +31,7 @@ The raw data and output files are too large to store in the repository. They are
 ![Uber Data Model](https://github.com/user-attachments/assets/73b813d1-733a-4109-b925-51384fbf3a46)
 
 ## ETL Pipeline
-<img width="334" alt="ETL pipeline" src="https://github.com/user-attachments/assets/7fef594a-c114-4943-9b58-1254a504ecec">
+<img alt="ETL pipeline" src="https://github.com/user-attachments/assets/7fef594a-c114-4943-9b58-1254a504ecec">
 
 ## Output
 [<img src="https://github.com/user-attachments/assets/9f373252-43cd-43ac-970c-f262ea87e39d" width=70% height=70%>](https://lookerstudio.google.com/reporting/5737527d-e089-47f5-80f1-2adda4ff3019)
