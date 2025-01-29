@@ -28,7 +28,7 @@ The raw data and output files are too large to store in the repository. They are
 
 
 ## Data Modeling
-![Uber Data Model](https://github.com/manyuzhang1996/NYC-Uber-Data-Engineering-Project-with-Google-Cloud-Platform/assets/111943220/3b9c2377-cc26-498c-a2e7-c4c857b94b80)
+![Uber Data Model](https://github.com/user-attachments/assets/73b813d1-733a-4109-b925-51384fbf3a46)
 
 ## ETL Pipeline
 <img width="334" alt="ETL pipeline" src="https://github.com/manyuzhang1996/NYC-Uber-Data-Engineering-Project-with-Google-Cloud-Platform/assets/111943220/2c3dbd03-4a4a-433e-9455-78527fa1831b">
