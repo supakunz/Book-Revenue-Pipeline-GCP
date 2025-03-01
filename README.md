@@ -52,7 +52,7 @@ cd Book-Revenue-Pipeline-GCP
 ```
 - Create a `.env` file in the root directory.
 
-- Add the following variables to the .env file , replacing the placeholder values with your own:
+- Add the following variables to the .env file, replacing the placeholder values with your own:
 
 ```
 MYSQL_CONNECTION = mysql_default #file name in Data Storage --> <data_audible_data_merged.csv>
