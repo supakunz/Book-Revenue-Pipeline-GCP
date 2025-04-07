@@ -5,7 +5,6 @@ An end-to-end modern data engineering project, including deployment of ETL pipel
 
 ## Architecture
 <img width="1258" alt="Project Architecture" src="https://github.com/user-attachments/assets/a22725d5-0be3-4519-a650-fdf3eb1b5177">
-<img width="1258" alt="Project Architecture" src="https://github.com/user-attachments/assets/0cf6fcf2-34e0-4c5d-ad17-ddf1853492a0">
 
 ## Technology Stack
 Languages: 
