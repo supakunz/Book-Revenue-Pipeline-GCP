@@ -61,5 +61,8 @@ CONVERSION_RATE_OUTPUT_PATH = /home/airflow/gcs/data/conversion_rate.csv
 FINAL_OUTPUT_PATH = /home/airflow/gcs/data/output.csv
 ```
 
-## Contact
-Supakun Thata (supakunt.thata@gmail.com)
+## 🙋‍♂️ Contact
+
+Developed by **Supakun Thata**  
+📧 Email: supakunt.thata@gmail.com  
+🔗 GitHub: [SupakunZ](https://github.com/SupakunZ)
